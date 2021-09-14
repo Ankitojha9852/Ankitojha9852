@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Ojha</h1>
 <h3 align="center">I’m a Computer Science student and Django Developer also works with js and react</h3>
-      **😄 Python || C++ || HTML || CSS || JAVASCRIPT**
+      **😄 Python || C || HTML || CSS || JAVASCRIPT**
   
 - 🌱 I’m currently learning **Linux and MongoDB**
 
