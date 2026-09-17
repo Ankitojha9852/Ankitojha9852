@@ -20,6 +20,10 @@ I'm Ankit Ojha, a passionate DevOps Engineer with a love for cloud computing, au
 
 
 ---
+
+![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
+
+---
 ## 🌱 Contribution Graph
 
 <picture>
