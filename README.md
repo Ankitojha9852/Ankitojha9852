@@ -1,5 +1,5 @@
 I'm Ankit Ojha, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
-<img src="./bheem.gif" width="120px" alt="Chhota Bheem Waving">
+<img src="https://raw.githubusercontent.com/MartinLasek/MartinLasek/main/assets/wave.gif" width="40px" alt="Waving Hand">
 ---
 ## 🌐 Connect with Me:
 
