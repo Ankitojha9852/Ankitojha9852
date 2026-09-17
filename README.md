@@ -7,6 +7,9 @@ I'm Ankit Ojha, a passionate DevOps Engineer with a love for cloud computing, au
 
 
 ---
+## 🛠️ Tools & Technologies:
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200"></img></p>
 
 
 
