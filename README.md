@@ -1,5 +1,5 @@
 I'm Ankit Ojha, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
-![Hi Waving](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB2ZjJmdGtkdmI1eGNjOHRza3J6YXdzYXNrbGN6cnh1eXU1eXZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1OWx3cmV4ZmhhbmI3YmxqOHhhNWl2cXBnYXZmcmI1OHlycnRwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3M05u2B2M/giphy.gif" width="120px" alt="Cartoon Waving">
 ---
 ## 🌐 Connect with Me:
 
