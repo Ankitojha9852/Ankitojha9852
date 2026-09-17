@@ -1,8 +1,5 @@
 I'm Ankit Ojha, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5MWp6ZXd4M2V4eDFocWNmcTJjcGg5eHpkeHFyNGZvZmlrMHNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJlD9a50qP5nFf3Yp/giphy.gif" width="120px" alt="Chhota Bheem">
-</p>
-
+<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Chhota_Bheem_Character.png" width="100px" alt="Chhota Bheem">
 ---
 ## 🌐 Connect with Me:
 
